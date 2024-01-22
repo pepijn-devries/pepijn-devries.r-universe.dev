@@ -1,0 +1,16 @@
+[
+  {
+    "package": "CopernicusMarine",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/CopernicusMarine",
+    "available": true,
+    "branch": "master"
+  },
+  {
+    "package": "ECOTOXr",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/ECOTOXr",
+    "available": true,
+    "branch": "main"
+  }
+]
