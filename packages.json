@@ -34,4 +34,11 @@
     "available": true,
     "branch": "master"
   }
+  {
+    "package": "adfExplorer",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/adfExplorer",
+    "available": true,
+    "branch": "master"
+  }
 ]
