@@ -1,5 +1,19 @@
 [
   {
+    "package": "adfExplorer",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/adfExplorer",
+    "available": true,
+    "branch": "master"
+  },
+  {
+    "package": "AmigaFFH",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/AmigaFFH",
+    "available": true,
+    "branch": "master"
+  },
+  {
     "package": "CopernicusMarine",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/CopernicusMarine",
@@ -21,23 +35,16 @@
     "branch": "master"
   },
   {
-    "package": "AmigaFFH",
+    "package": "ggsankeyfier",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
-    "url": "https://github.com/pepijn-devries/AmigaFFH",
+    "url": "https://github.com/pepijn-devries/ggsankeyfier",
     "available": true,
     "branch": "master"
-  },
+  }
   {
     "package": "ProTrackR",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/ProTrackR",
-    "available": true,
-    "branch": "master"
-  },
-  {
-    "package": "adfExplorer",
-    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
-    "url": "https://github.com/pepijn-devries/adfExplorer",
     "available": true,
     "branch": "master"
   }
