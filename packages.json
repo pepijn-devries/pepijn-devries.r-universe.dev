@@ -21,6 +21,13 @@
     "branch": "master"
   },
   {
+    "package": "csquares",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/csquares",
+    "available": true,
+    "branch": "master"
+  },
+  {
     "package": "ECOTOXr",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/ECOTOXr",
