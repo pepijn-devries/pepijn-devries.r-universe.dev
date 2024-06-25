@@ -4,55 +4,63 @@
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/adfExplorer",
     "available": true,
-    "branch": "master"
+    "branch": "master",
+    "tags": ["retro", "Amiga"]
   },
   {
     "package": "AmigaFFH",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/AmigaFFH",
     "available": true,
-    "branch": "master"
+    "branch": "master",
+    "tags": ["retro", "Amiga"]
   },
   {
     "package": "CopernicusMarine",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/CopernicusMarine",
     "available": true,
-    "branch": "master"
+    "branch": "master",
+    "tags": ["data"]
   },
   {
     "package": "csquares",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/csquares",
     "available": true,
-    "branch": "main"
+    "branch": "main",
+    "tags": ["spatial"]
   },
   {
     "package": "ECOTOXr",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/ECOTOXr",
     "available": true,
-    "branch": "main"
+    "branch": "main",
+    "tags": ["data"]
   },
   {
     "package": "ggfields",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/ggfields",
     "available": true,
-    "branch": "master"
+    "branch": "master",
+    "tags": ["visualisation", "spatial"]
   },
   {
     "package": "ggsankeyfier",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/ggsankeyfier",
     "available": true,
-    "branch": "master"
+    "branch": "master",
+    "tags": ["visualisation"]
   },
   {
     "package": "ProTrackR",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/ProTrackR",
     "available": true,
-    "branch": "master"
+    "branch": "master",
+    "tags": ["retro", "Amiga"]
   }
 ]
