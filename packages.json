@@ -8,6 +8,14 @@
     "tags": ["retro", "Amiga"]
   },
   {
+    "package": "adfExplorer2",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/adfExplorer2",
+    "available": true,
+    "branch": "master",
+    "tags": ["retro", "Amiga"]
+  },
+  {
     "package": "AmigaFFH",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/AmigaFFH",
