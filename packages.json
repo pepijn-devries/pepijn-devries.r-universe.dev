@@ -70,5 +70,13 @@
     "available": true,
     "branch": "master",
     "tags": ["retro", "Amiga"]
+  },
+  {
+    "package": "ProTrackR2",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/ProTrackR2",
+    "available": true,
+    "branch": "master",
+    "tags": ["retro", "Amiga"]
   }
 ]
