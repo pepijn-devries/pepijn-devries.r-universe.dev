@@ -64,6 +64,14 @@
     "tags": ["visualisation"]
   },
   {
+    "package": "openmpt",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/openmpt",
+    "available": true,
+    "branch": "master",
+    "tags": ["retro"]
+  },
+  {
     "package": "ProTrackR",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/ProTrackR",
