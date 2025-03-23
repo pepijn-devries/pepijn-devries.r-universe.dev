@@ -48,6 +48,14 @@
     "tags": ["visualisation", "spatial"]
   },
   {
+    "package": "gghourglass",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/gghourglass",
+    "available": true,
+    "branch": "master",
+    "tags": ["visualisation"]
+  },
+  {
     "package": "ggsankeyfier",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/ggsankeyfier",
