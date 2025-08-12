@@ -16,6 +16,14 @@
     "tags": ["retro", "Amiga"]
   },
   {
+    "package": "blosc",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/blosc",
+    "available": true,
+    "branch": "master",
+    "tags": ["data", "compression"]
+  },
+  {
     "package": "CopernicusMarine",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/CopernicusMarine",
