@@ -24,6 +24,14 @@
     "tags": ["data", "compression"]
   },
   {
+    "package": "CopernicusClimate",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/CopernicusClimate",
+    "available": true,
+    "branch": "master",
+    "tags": ["data"]
+  },
+  {
     "package": "CopernicusMarine",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/CopernicusMarine",
