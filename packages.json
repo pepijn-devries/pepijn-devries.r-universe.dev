@@ -110,5 +110,13 @@
     "available": true,
     "branch": "master",
     "tags": ["retro", "Amiga"]
+  },
+  {
+    "package": "ramiga",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/ramiga",
+    "available": true,
+    "branch": "main",
+    "tags": ["retro", "Amiga"]
   }
 ]
