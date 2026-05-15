@@ -32,6 +32,14 @@
     "tags": ["data"]
   },
   {
+    "package": "CopernicusDataspace",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/CopernicusDataspace",
+    "available": true,
+    "branch": "main",
+    "tags": ["data"]
+  },
+  {
     "package": "CopernicusMarine",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/CopernicusMarine",
