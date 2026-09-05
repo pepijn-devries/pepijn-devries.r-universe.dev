@@ -64,6 +64,14 @@
     "tags": ["data"]
   },
   {
+    "package": "foosball3",
+    "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
+    "url": "https://github.com/pepijn-devries/foosball3",
+    "available": true,
+    "branch": "main",
+    "tags": ["data"]
+  },
+  {
     "package": "ggfields",
     "maintainer": "Pepijn de Vries <pepijn.devries@outlook.com>",
     "url": "https://github.com/pepijn-devries/ggfields",
